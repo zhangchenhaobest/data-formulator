@@ -1,3 +1,29 @@
+# data-formulator
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+交互式 AI 数据分析系统，轻松连接、探索与可视化数据。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <h1 align="center">
   <img src="./public/favicon.ico" alt="Data Formulator icon" width="28">&nbsp;
   Data Formulator: AI-powered Data Visualization
